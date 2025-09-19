@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Eu sou a Kelly 👋
 
-<!--
-**kellyxwz/kellyxwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Estudando JAVA e SQL
+- 😄 Pronouns: Ela/dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Estatísticas do GitHub
+
+![Kelly D GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyxwz&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyxwz&theme=dracula&layout=compact)](https://github.com/kellyxwz/github-readme-stats)
+
+---
+
